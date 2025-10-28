@@ -6,9 +6,9 @@ It replicates the same structure, layout, and logic as the Twig and React implem
 
 Live Preview:
 
-React:
-Vue:
-Twig: 
+React: tickets-app-react-v.netlify.app
+Vue:  https://tangerine-quokka-615328.netlify.app/
+Twig: https://twig-ticket-app-2he3.onrender.com
 
 ---
 
